@@ -42,3 +42,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/Naitik2302/svg-gradient-crewai.git
 cd svg-gradient-crewai
 pip install -r requirements.txt
+python main.py
