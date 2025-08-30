@@ -1,0 +1,7 @@
+# Core dependencies
+crewai>=0.28.8
+openai>=1.35.13
+
+# Utilities
+regex>=2023.12.25
+
